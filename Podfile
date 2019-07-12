@@ -10,6 +10,7 @@ def ui_pod
   pod 'SVProgressHUD'
   pod 'BmobSDK'
   pod 'MJExtension'
+  pod 'AFNetworking'
   
 end
 
@@ -21,6 +22,7 @@ end
 
 def helper_pods
   pod 'JPush'
+  pod 'YYCache'
  # pod 'IQKeyboardManager', '~> 6.2.0'
 
 end
